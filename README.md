@@ -29,6 +29,7 @@ Course Site: https://www.coursera.org/course/getdata
 the script create a dedicated directory whithin your working directory named "Getting_and_Cleaning_Data"
  
 ### The Script
-the script will download the zip file, unzip it and interpret according to the CodeBook. The output will be a .txt file named tidyData, and it will be located within the dedicated directory.
+the script will download the zip file, unzip it and interpret according to the CodeBook. The output will be a .txt file named tidyData, and it will be located within the dedicated directory. in order to get in depth explenation on how the script works please see the Code Book.
+
 
 
