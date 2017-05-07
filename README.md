@@ -1,4 +1,4 @@
-#Coursera's Getting & Cleaning Data Project
+# Coursera's Getting & Cleaning Data Project
 
 Course Site: https://www.coursera.org/course/getdata
 
@@ -19,16 +19,16 @@ Course Site: https://www.coursera.org/course/getdata
 >* Appropriately labels the data set with descriptive variable names. 
 >* Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-##How To run the script
-###Requiared Packages
+## Execution
+### Requiared Packages
 *data.table
 *plyr
 *dplyr
 
-##Working directory
+### Working directory
 the script create a dedicated directory whithin your working directory named "Getting_and_Cleaning_Data"
-
-##The Script
+ 
+### The Script
 the script will download the zip file, unzip it and interpret according to the CodeBook. The output will be a .txt file named tidyData, and it will be located within the dedicated directory.
 
 
