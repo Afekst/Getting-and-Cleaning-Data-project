@@ -21,9 +21,9 @@ Course Site: https://www.coursera.org/course/getdata
 
 ## Execution
 ### Requiared Packages
-*data.table
-*plyr
-*dplyr
+* data.table
+* plyr
+* dplyr
 
 ### Working directory
 the script create a dedicated directory whithin your working directory named "Getting_and_Cleaning_Data"
